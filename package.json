@@ -1,0 +1,13 @@
+{
+  "name": "Gulp-Mocha",
+  "version": "1.0.0",
+  "description": "Integration of Gulp-Mocha",
+  "author": "RK",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.0"
+  }
+}
